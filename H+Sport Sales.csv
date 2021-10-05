@@ -1,0 +1,910 @@
+﻿Benefits,Building,Customer,Date,Department,Employee Name,Hire Date,Month,Product,Region,Salesperson,Status,Item Cost,Job Rating,No.Items,Salary,Total Cost,Years
+R,North,Ellington Equipment,8/16/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,1,22860,799,6
+R,North,Ellington Equipment,1/25/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,2,22860,1598,6
+R,North,Ellington Equipment,9/30/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,9,22860,7191,6
+R,North,Ellington Equipment,6/3/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,2,22860,680,6
+R,North,Ellington Equipment,7/13/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,6,22860,2040,6
+R,North,Ellington Equipment,6/18/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,7,22860,2380,6
+R,North,Ellington Equipment,5/21/2014,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,4,22860,672,6
+R,North,Ellington Equipment,12/13/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,4,22860,672,6
+R,North,Ellington Equipment,12/21/2014,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,9,22860,1512,6
+R,North,Ellington Equipment,5/23/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,14,22860,2352,6
+R,North,Ellington Equipment,1/14/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,15,22860,2520,6
+R,North,Ellington Equipment,11/16/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,8,22860,632,6
+R,North,Ellington Equipment,8/17/2015,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,13,22860,1027,6
+R,North,Ellington Equipment,12/6/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,7,22860,2380,6
+,Watson,Ellington Equipment,1/7/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,7,11044,5593,12
+,Watson,Ellington Equipment,12/8/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,14,11044,11186,12
+,Watson,Ellington Equipment,3/5/2014,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,11,11044,1848,12
+,Watson,Ellington Equipment,12/9/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,12,11044,2016,12
+,Watson,Ellington Equipment,4/2/2014,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,14,11044,2352,12
+,Watson,Ellington Equipment,1/11/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,15,11044,2520,12
+,Watson,Ellington Equipment,3/16/2014,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,5,11044,395,12
+,Watson,Ellington Equipment,8/6/2015,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,8,11044,632,12
+,Watson,Ellington Equipment,1/13/2014,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,11,11044,869,12
+,Watson,Ellington Equipment,10/21/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,6,11044,2040,12
+,Watson,Ellington Equipment,12/27/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,12,11044,4080,12
+,Main,Ellington Equipment,1/7/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,8,35312,6392,5
+,Main,Ellington Equipment,5/10/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,9,35312,7191,5
+,Main,Ellington Equipment,7/1/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,11,35312,8789,5
+,Main,Ellington Equipment,10/10/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,4,35312,1360,5
+,Main,Ellington Equipment,1/25/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,13,35312,4420,5
+,Main,Ellington Equipment,11/23/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,2,35312,336,5
+,Main,Ellington Equipment,6/22/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,5,35312,840,5
+,Main,Ellington Equipment,10/18/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,7,35312,1176,5
+,Main,Ellington Equipment,10/8/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,10,35312,1680,5
+,Main,Ellington Equipment,5/7/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,5,35312,395,5
+,Main,Ellington Equipment,7/2/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,6,35312,474,5
+,Main,Ellington Equipment,1/4/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,7,35312,553,5
+,Main,Ellington Equipment,9/12/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,7,35312,553,5
+,Main,Ellington Equipment,12/22/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,11,35312,869,5
+,Main,Ellington Equipment,1/11/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,12,35312,948,5
+,Main,Ellington Equipment,11/12/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,2,35312,680,5
+,Main,Ellington Equipment,5/4/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,2,35312,680,5
+,Main,Ellington Equipment,8/26/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,5,35312,1700,5
+,Main,Ellington Equipment,2/19/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,6,35312,2040,5
+,Main,Ellington Equipment,9/26/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,13,35312,4420,5
+D,South,Ellington Equipment,6/14/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,1,45450,799,16
+D,South,Ellington Equipment,3/9/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,8,45450,6392,16
+D,South,Ellington Equipment,4/22/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,8,45450,2720,16
+D,South,Ellington Equipment,6/3/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,9,45450,3060,16
+D,South,Ellington Equipment,10/4/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,90 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,168,5,1,45450,168,16
+D,South,Ellington Equipment,7/20/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,90 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,168,5,2,45450,336,16
+D,South,Ellington Equipment,3/19/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,1,45450,79,16
+D,South,Ellington Equipment,5/25/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,1,45450,79,16
+D,South,Ellington Equipment,12/3/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,3,45450,237,16
+D,South,Ellington Equipment,6/28/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,4,45450,316,16
+D,South,Ellington Equipment,11/9/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,13,45450,1027,16
+D,South,Ellington Equipment,5/20/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,3,45450,1020,16
+D,South,Ellington Equipment,8/16/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,3,45450,1020,16
+D,South,Ellington Equipment,9/11/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,5,45450,1700,16
+D,South,Ellington Equipment,9/20/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,8,45450,2720,16
+D,South,Ellington Equipment,1/6/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,11,45450,3740,16
+R,Main,Ellington Equipment,2/16/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,9,23520,7191,17
+R,Main,Ellington Equipment,10/29/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,10,23520,7990,17
+R,Main,Ellington Equipment,9/7/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,14,23520,11186,17
+R,Main,Ellington Equipment,12/21/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,3,23520,504,17
+R,Main,Ellington Equipment,6/15/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,6,23520,1008,17
+R,Main,Ellington Equipment,5/3/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,7,23520,1176,17
+R,Main,Ellington Equipment,10/22/2014,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,12,23520,948,17
+R,Main,Ellington Equipment,7/13/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,15,23520,1185,17
+R,Main,Ellington Equipment,4/20/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,2,23520,680,17
+R,Main,Ellington Equipment,2/9/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,4,23520,1360,17
+R,Main,Ellington Equipment,2/9/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,6,23520,2040,17
+R,Main,Ellington Equipment,4/13/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,6,23520,2040,17
+R,Main,Ellington Equipment,9/11/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,8,23520,2720,17
+R,Main,Ellington Equipment,8/9/2015,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,13,23520,4420,17
+R,Main,Ellington Equipment,7/22/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,14,23520,4760,17
+R,Main,Ellington Equipment,3/27/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,15,23520,5100,17
+,Taft,Ellington Equipment,7/20/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,2,74020,1598,5
+,Taft,Ellington Equipment,12/14/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,9,74020,3060,5
+,Taft,Ellington Equipment,6/24/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,7,74020,1176,5
+,Taft,Ellington Equipment,6/15/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,9,74020,1512,5
+,Taft,Ellington Equipment,1/15/2015,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,2,74020,158,5
+,Taft,Ellington Equipment,9/6/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,13,74020,1027,5
+,Taft,Ellington Equipment,4/7/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,13,74020,1027,5
+,Taft,Ellington Equipment,1/6/2015,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,1,74020,340,5
+,North,Ellington Equipment,12/7/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,5,78100,3995,12
+,North,Ellington Equipment,11/1/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,7,78100,5593,12
+,North,Ellington Equipment,11/2/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,13,78100,10387,12
+,North,Ellington Equipment,9/6/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,9,78100,3060,12
+,North,Ellington Equipment,8/4/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,10,78100,3400,12
+,North,Ellington Equipment,3/11/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,13,78100,4420,12
+,North,Ellington Equipment,4/19/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,1,78100,168,12
+,North,Ellington Equipment,2/8/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,14,78100,2352,12
+,North,Ellington Equipment,8/9/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,13,78100,1027,12
+,North,Ellington Equipment,1/28/2014,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,4,78100,1360,12
+,North,Ellington Equipment,11/29/2015,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,9,78100,3060,12
+,North,Ellington Equipment,12/3/2015,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,12,78100,4080,12
+DMR,South,Ellington Equipment,10/28/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,4,39110,3196,4
+DMR,South,Ellington Equipment,8/4/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,8,39110,6392,4
+DMR,South,Ellington Equipment,3/13/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,11,39110,8789,4
+DMR,South,Ellington Equipment,6/18/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,12,39110,9588,4
+DMR,South,Ellington Equipment,7/17/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,14,39110,11186,4
+DMR,South,Ellington Equipment,9/9/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,3,39110,1020,4
+DMR,South,Ellington Equipment,10/19/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,6,39110,2040,4
+DMR,South,Ellington Equipment,9/14/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,8,39110,2720,4
+DMR,South,Ellington Equipment,1/29/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,4,39110,672,4
+DMR,South,Ellington Equipment,5/23/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,12,39110,2016,4
+DMR,South,Ellington Equipment,7/13/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,2,39110,158,4
+DMR,South,Ellington Equipment,9/6/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,2,39110,158,4
+DMR,South,Ellington Equipment,10/5/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,4,39110,316,4
+DMR,South,Ellington Equipment,6/25/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,6,39110,474,4
+DMR,South,Ellington Equipment,1/4/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,2,39110,680,4
+DMR,South,Ellington Equipment,7/26/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,3,39110,1020,4
+DMR,South,Ellington Equipment,6/16/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,3,39110,1020,4
+DMR,South,Ellington Equipment,10/19/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,7,39110,2380,4
+DMR,South,Ellington Equipment,8/13/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,9,39110,3060,4
+DMR,North,Ellington Equipment,6/12/2014,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,6,48550,2040,3
+DMR,North,Ellington Equipment,7/26/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,9,48550,3060,3
+DMR,North,Ellington Equipment,5/2/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,10,48550,3400,3
+DMR,North,Ellington Equipment,6/15/2014,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,10,48550,3400,3
+DMR,North,Ellington Equipment,9/6/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,1,48550,168,3
+DMR,North,Ellington Equipment,7/20/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,2,48550,336,3
+DMR,North,Ellington Equipment,11/30/2014,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,9,48550,1512,3
+DMR,North,Ellington Equipment,2/19/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,3,48550,237,3
+DMR,North,Ellington Equipment,9/24/2014,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,1,48550,340,3
+DMR,North,Ellington Equipment,3/31/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,6,48550,2040,3
+DMR,North,Ellington Equipment,4/9/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,7,48550,2380,3
+,North,Ellington Equipment,11/10/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,7,54190,5593,10
+,North,Ellington Equipment,4/26/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,8,54190,6392,10
+,North,Ellington Equipment,10/19/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,13,54190,10387,10
+,North,Ellington Equipment,8/9/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,11,54190,3740,10
+,North,Ellington Equipment,1/5/2014,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,3,54190,504,10
+,North,Ellington Equipment,3/1/2014,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,4,54190,672,10
+,North,Ellington Equipment,1/27/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,9,54190,1512,10
+,North,Ellington Equipment,10/13/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,4,54190,316,10
+,North,Ellington Equipment,12/8/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,15,54190,1185,10
+,North,Ellington Equipment,11/11/2015,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,10,54190,3400,10
+,North,Ellington Equipment,8/6/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,14,54190,4760,10
+,North,Ellington Equipment,1/29/2015,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,15,54190,5100,10
+DMR,Main,Ellington Equipment,10/22/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,2,20500,1598,17
+DMR,Main,Ellington Equipment,5/28/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,5,20500,3995,17
+DMR,Main,Ellington Equipment,2/25/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,9,20500,7191,17
+DMR,Main,Ellington Equipment,10/27/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,9,20500,7191,17
+DMR,Main,Ellington Equipment,9/18/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,10,20500,7990,17
+DMR,Main,Ellington Equipment,1/7/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,13,20500,10387,17
+DMR,Main,Ellington Equipment,9/2/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,13,20500,10387,17
+DMR,Main,Ellington Equipment,10/4/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,1,20500,168,17
+DMR,Main,Ellington Equipment,10/28/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,2,20500,336,17
+DMR,Main,Ellington Equipment,6/24/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,13,20500,2184,17
+DMR,Main,Ellington Equipment,10/11/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,1,20500,79,17
+DMR,Main,Ellington Equipment,11/2/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,1,20500,79,17
+DMR,Main,Ellington Equipment,7/5/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,3,20500,237,17
+DMR,Main,Ellington Equipment,12/10/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,6,20500,474,17
+DMR,Main,Ellington Equipment,12/20/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,7,20500,553,17
+DMR,Main,Ellington Equipment,3/4/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,12,20500,948,17
+DMR,Main,Ellington Equipment,12/24/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,3,20500,1020,17
+DMR,Main,Ellington Equipment,10/23/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,4,20500,1360,17
+DMR,Main,Ellington Equipment,2/16/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,7,20500,2380,17
+DMR,Main,Ellington Equipment,6/16/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,1,71820,799,15
+DMR,Main,Ellington Equipment,11/3/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,2,71820,1598,15
+DMR,Main,Ellington Equipment,1/18/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,3,71820,2397,15
+DMR,Main,Ellington Equipment,8/21/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,4,71820,3196,15
+DMR,Main,Ellington Equipment,12/11/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,7,71820,5593,15
+DMR,Main,Ellington Equipment,1/27/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,10,71820,7990,15
+DMR,Main,Ellington Equipment,11/21/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,10,71820,7990,15
+DMR,Main,Ellington Equipment,4/28/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,8,71820,2720,15
+DMR,Main,Ellington Equipment,12/1/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,9,71820,3060,15
+DMR,Main,Ellington Equipment,7/30/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,10,71820,3400,15
+DMR,Main,Ellington Equipment,5/7/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,10,71820,3400,15
+DMR,Main,Ellington Equipment,2/21/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,11,71820,3740,15
+DMR,Main,Ellington Equipment,11/26/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,3,71820,504,15
+DMR,Main,Ellington Equipment,11/17/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,4,71820,672,15
+DMR,Main,Ellington Equipment,9/22/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,6,71820,1008,15
+DMR,Main,Ellington Equipment,6/30/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,4,71820,316,15
+DMR,Main,Ellington Equipment,3/15/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,9,71820,711,15
+DMR,Main,Ellington Equipment,7/23/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,9,71820,711,15
+DMR,Main,Ellington Equipment,1/19/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Ellington Equipment,4/5/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Ellington Equipment,3/11/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,5,71820,1700,15
+DMR,Main,Ellington Equipment,6/6/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,7,71820,2380,15
+DMR,Main,Ellington Equipment,9/6/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,14,71820,4760,15
+R,North,B&B Spaces,3/12/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,8,22860,6392,6
+R,North,B&B Spaces,5/28/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,8,22860,6392,6
+R,North,B&B Spaces,10/17/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,11,22860,8789,6
+R,North,B&B Spaces,6/21/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,19,22860,15181,6
+R,North,B&B Spaces,8/2/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,15,22860,5100,6
+R,North,B&B Spaces,11/26/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,17,22860,5780,6
+R,North,B&B Spaces,12/27/2014,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,9,22860,1512,6
+R,North,B&B Spaces,11/1/2014,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,11,22860,1848,6
+R,North,B&B Spaces,5/31/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,14,22860,2352,6
+R,North,B&B Spaces,4/22/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,10,22860,790,6
+R,North,B&B Spaces,4/15/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,12,22860,948,6
+R,North,B&B Spaces,6/25/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,12,22860,948,6
+R,North,B&B Spaces,10/4/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,12,22860,4080,6
+R,North,B&B Spaces,12/20/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,20,22860,6800,6
+,Watson,B&B Spaces,12/13/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,13,11044,10387,12
+,Watson,B&B Spaces,7/6/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,6,11044,2040,12
+,Watson,B&B Spaces,7/23/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,12,11044,4080,12
+,Watson,B&B Spaces,11/9/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,16,11044,5440,12
+,Watson,B&B Spaces,11/3/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,17,11044,5780,12
+,Watson,B&B Spaces,12/21/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,18,11044,6120,12
+,Watson,B&B Spaces,1/12/2014,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,11,11044,1848,12
+,Watson,B&B Spaces,1/11/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,13,11044,2184,12
+,Watson,B&B Spaces,10/25/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,18,11044,3024,12
+,Watson,B&B Spaces,1/5/2014,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,12,11044,948,12
+,Watson,B&B Spaces,12/2/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,13,11044,4420,12
+,Watson,B&B Spaces,5/17/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,15,11044,5100,12
+,Main,B&B Spaces,9/27/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,6,35312,4794,5
+,Main,B&B Spaces,1/13/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,6,35312,4794,5
+,Main,B&B Spaces,4/13/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,7,35312,5593,5
+,Main,B&B Spaces,4/27/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,11,35312,8789,5
+,Main,B&B Spaces,12/18/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,11,35312,8789,5
+,Main,B&B Spaces,6/22/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,16,35312,12784,5
+,Main,B&B Spaces,1/12/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,7,35312,2380,5
+,Main,B&B Spaces,5/14/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,11,35312,3740,5
+,Main,B&B Spaces,2/2/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,12,35312,4080,5
+,Main,B&B Spaces,12/19/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,12,35312,4080,5
+,Main,B&B Spaces,11/25/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,14,35312,4760,5
+,Main,B&B Spaces,7/21/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,7,35312,1176,5
+,Main,B&B Spaces,9/3/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,9,35312,1512,5
+,Main,B&B Spaces,7/9/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,13,35312,2184,5
+,Main,B&B Spaces,8/2/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,20,35312,3360,5
+,Main,B&B Spaces,11/5/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,9,35312,711,5
+,Main,B&B Spaces,1/25/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,7,35312,2380,5
+,Main,B&B Spaces,5/20/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,7,35312,2380,5
+,Main,B&B Spaces,6/28/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,9,35312,3060,5
+,Main,B&B Spaces,11/30/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,13,35312,4420,5
+,Main,B&B Spaces,12/24/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,16,35312,5440,5
+D,South,B&B Spaces,3/11/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,9,45450,7191,16
+D,South,B&B Spaces,6/10/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,11,45450,8789,16
+D,South,B&B Spaces,10/3/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,14,45450,11186,16
+D,South,B&B Spaces,4/23/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,16,45450,12784,16
+D,South,B&B Spaces,2/3/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,7,45450,2380,16
+D,South,B&B Spaces,2/3/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,11,45450,3740,16
+D,South,B&B Spaces,3/4/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,90 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,168,5,8,45450,1344,16
+D,South,B&B Spaces,7/15/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,8,45450,632,16
+D,South,B&B Spaces,3/29/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,9,45450,711,16
+D,South,B&B Spaces,4/20/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,11,45450,869,16
+D,South,B&B Spaces,2/12/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,17,45450,1343,16
+D,South,B&B Spaces,7/28/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,12,45450,4080,16
+D,South,B&B Spaces,3/26/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,20,45450,6800,16
+R,Main,B&B Spaces,5/14/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,6,23520,2040,17
+R,Main,B&B Spaces,12/10/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,11,23520,3740,17
+R,Main,B&B Spaces,3/10/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,17,23520,5780,17
+R,Main,B&B Spaces,3/24/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,18,23520,6120,17
+R,Main,B&B Spaces,5/25/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,6,23520,1008,17
+R,Main,B&B Spaces,5/22/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,9,23520,1512,17
+R,Main,B&B Spaces,11/9/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,11,23520,1848,17
+R,Main,B&B Spaces,7/5/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,17,23520,2856,17
+R,Main,B&B Spaces,6/7/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,18,23520,3024,17
+R,Main,B&B Spaces,1/7/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,16,23520,1264,17
+R,Main,B&B Spaces,9/30/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,19,23520,1501,17
+R,Main,B&B Spaces,8/31/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,11,23520,3740,17
+R,Main,B&B Spaces,12/14/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,13,23520,4420,17
+R,Main,B&B Spaces,11/20/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,14,23520,4760,17
+R,Main,B&B Spaces,1/26/2015,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,17,23520,5780,17
+,Taft,B&B Spaces,11/22/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,14,74020,11186,5
+,Taft,B&B Spaces,7/6/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,15,74020,11985,5
+,Taft,B&B Spaces,2/17/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,18,74020,14382,5
+,Taft,B&B Spaces,5/15/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,7,74020,553,5
+,Taft,B&B Spaces,11/9/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,10,74020,790,5
+,Taft,B&B Spaces,12/18/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,19,74020,1501,5
+,Taft,B&B Spaces,8/3/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,7,74020,2380,5
+,Taft,B&B Spaces,9/6/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,7,74020,2380,5
+,Taft,B&B Spaces,1/26/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,8,74020,2720,5
+,Taft,B&B Spaces,7/29/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,11,74020,3740,5
+,Taft,B&B Spaces,4/6/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,18,74020,6120,5
+,Taft,B&B Spaces,9/30/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,19,74020,6460,5
+,Taft,B&B Spaces,11/20/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,19,74020,6460,5
+,North,B&B Spaces,6/29/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,10,78100,7990,12
+,North,B&B Spaces,12/1/2014,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,12,78100,9588,12
+,North,B&B Spaces,5/14/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,14,78100,11186,12
+,North,B&B Spaces,1/21/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,15,78100,11985,12
+,North,B&B Spaces,11/16/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,19,78100,15181,12
+,North,B&B Spaces,12/22/2014,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,20,78100,15980,12
+,North,B&B Spaces,12/14/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,8,78100,2720,12
+,North,B&B Spaces,1/14/2014,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,14,78100,4760,12
+,North,B&B Spaces,4/9/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,8,78100,1344,12
+,North,B&B Spaces,10/4/2014,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,18,78100,3024,12
+,North,B&B Spaces,1/15/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,8,78100,632,12
+,North,B&B Spaces,7/28/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,8,78100,632,12
+,North,B&B Spaces,11/16/2014,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,13,78100,1027,12
+,North,B&B Spaces,3/16/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,18,78100,1422,12
+,North,B&B Spaces,1/20/2014,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,20,78100,1580,12
+,North,B&B Spaces,10/12/2014,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,13,78100,4420,12
+DMR,South,B&B Spaces,1/13/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,6,39110,4794,4
+DMR,South,B&B Spaces,7/10/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,14,39110,11186,4
+DMR,South,B&B Spaces,6/22/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,19,39110,15181,4
+DMR,South,B&B Spaces,7/9/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,9,39110,3060,4
+DMR,South,B&B Spaces,2/3/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,9,39110,3060,4
+DMR,South,B&B Spaces,2/3/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,12,39110,4080,4
+DMR,South,B&B Spaces,6/8/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,13,39110,4420,4
+DMR,South,B&B Spaces,5/25/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,14,39110,4760,4
+DMR,South,B&B Spaces,2/19/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,19,39110,6460,4
+DMR,South,B&B Spaces,2/14/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,14,39110,2352,4
+DMR,South,B&B Spaces,5/31/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,14,39110,2352,4
+DMR,South,B&B Spaces,11/13/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,15,39110,2520,4
+DMR,South,B&B Spaces,1/7/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,16,39110,2688,4
+DMR,South,B&B Spaces,4/19/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,7,39110,553,4
+DMR,South,B&B Spaces,12/6/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,13,39110,1027,4
+DMR,South,B&B Spaces,2/16/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,15,39110,1185,4
+DMR,South,B&B Spaces,3/20/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,16,39110,5440,4
+DMR,South,B&B Spaces,6/10/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,18,39110,6120,4
+DMR,South,B&B Spaces,3/1/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,20,39110,6800,4
+DMR,South,B&B Spaces,8/11/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,20,39110,6800,4
+DMR,North,B&B Spaces,4/30/2015,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,20,48550,15980,3
+DMR,North,B&B Spaces,7/7/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,9,48550,3060,3
+DMR,North,B&B Spaces,8/5/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,16,48550,5440,3
+DMR,North,B&B Spaces,10/5/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,6,48550,1008,3
+DMR,North,B&B Spaces,9/20/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,20,48550,3360,3
+DMR,North,B&B Spaces,5/7/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,8,48550,632,3
+DMR,North,B&B Spaces,10/22/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,18,48550,6120,3
+,North,B&B Spaces,3/26/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,7,54190,5593,10
+,North,B&B Spaces,9/11/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,13,54190,10387,10
+,North,B&B Spaces,11/24/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,18,54190,14382,10
+,North,B&B Spaces,9/21/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,19,54190,15181,10
+,North,B&B Spaces,5/24/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,20,54190,15980,10
+,North,B&B Spaces,6/9/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,8,54190,2720,10
+,North,B&B Spaces,12/10/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,6,54190,1008,10
+,North,B&B Spaces,1/8/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,6,54190,1008,10
+,North,B&B Spaces,5/26/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,17,54190,2856,10
+,North,B&B Spaces,9/2/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,11,54190,869,10
+,North,B&B Spaces,12/30/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,12,54190,4080,10
+,North,B&B Spaces,1/11/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,13,54190,4420,10
+DMR,Main,B&B Spaces,5/21/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,7,20500,5593,17
+DMR,Main,B&B Spaces,10/31/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,8,20500,6392,17
+DMR,Main,B&B Spaces,3/30/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,12,20500,9588,17
+DMR,Main,B&B Spaces,2/16/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,14,20500,11186,17
+DMR,Main,B&B Spaces,2/20/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,17,20500,13583,17
+DMR,Main,B&B Spaces,1/5/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,18,20500,14382,17
+DMR,Main,B&B Spaces,2/8/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,11,20500,3740,17
+DMR,Main,B&B Spaces,2/1/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,13,20500,4420,17
+DMR,Main,B&B Spaces,2/19/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,18,20500,6120,17
+DMR,Main,B&B Spaces,5/18/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,18,20500,6120,17
+DMR,Main,B&B Spaces,8/10/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,8,20500,1344,17
+DMR,Main,B&B Spaces,7/27/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,12,20500,2016,17
+DMR,Main,B&B Spaces,12/21/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,19,20500,3192,17
+DMR,Main,B&B Spaces,9/11/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,13,20500,1027,17
+DMR,Main,B&B Spaces,8/18/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,6,20500,2040,17
+DMR,Main,B&B Spaces,9/30/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,6,20500,2040,17
+DMR,Main,B&B Spaces,12/13/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,11,20500,3740,17
+DMR,Main,B&B Spaces,4/9/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,15,20500,5100,17
+DMR,Main,B&B Spaces,5/28/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,20,20500,6800,17
+DMR,Main,B&B Spaces,12/20/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,9,71820,7191,15
+DMR,Main,B&B Spaces,8/12/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,16,71820,12784,15
+DMR,Main,B&B Spaces,6/22/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,17,71820,13583,15
+DMR,Main,B&B Spaces,6/16/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,19,71820,15181,15
+DMR,Main,B&B Spaces,11/19/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,8,71820,2720,15
+DMR,Main,B&B Spaces,1/3/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,9,71820,3060,15
+DMR,Main,B&B Spaces,2/3/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,15,71820,5100,15
+DMR,Main,B&B Spaces,2/3/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,17,71820,5780,15
+DMR,Main,B&B Spaces,6/3/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,6,71820,1008,15
+DMR,Main,B&B Spaces,7/2/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,8,71820,1344,15
+DMR,Main,B&B Spaces,2/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,8,71820,1344,15
+DMR,Main,B&B Spaces,10/7/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,8,71820,1344,15
+DMR,Main,B&B Spaces,11/5/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,9,71820,1512,15
+DMR,Main,B&B Spaces,1/31/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,13,71820,2184,15
+DMR,Main,B&B Spaces,2/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,13,71820,2184,15
+DMR,Main,B&B Spaces,7/23/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,17,71820,2856,15
+DMR,Main,B&B Spaces,9/15/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,20,71820,3360,15
+DMR,Main,B&B Spaces,1/5/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,20,71820,3360,15
+DMR,Main,B&B Spaces,12/25/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,20,71820,3360,15
+DMR,Main,B&B Spaces,2/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,8,71820,632,15
+DMR,Main,B&B Spaces,12/29/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,9,71820,711,15
+DMR,Main,B&B Spaces,8/23/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,12,71820,948,15
+DMR,Main,B&B Spaces,2/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,14,71820,1106,15
+DMR,Main,B&B Spaces,5/16/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,17,71820,1343,15
+DMR,Main,B&B Spaces,9/30/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,20,71820,1580,15
+DMR,Main,B&B Spaces,2/16/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,20,71820,1580,15
+DMR,Main,B&B Spaces,3/24/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,20,71820,1580,15
+DMR,Main,B&B Spaces,12/27/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,20,71820,1580,15
+DMR,Main,B&B Spaces,11/22/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,8,71820,2720,15
+DMR,Main,B&B Spaces,12/12/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,13,71820,4420,15
+DMR,Main,B&B Spaces,10/24/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,16,71820,5440,15
+R,North,Home Fitness,5/8/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,6,22860,4794,6
+R,North,Home Fitness,2/4/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,6,22860,4794,6
+R,North,Home Fitness,8/13/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,9,22860,7191,6
+R,North,Home Fitness,3/30/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,4,22860,1360,6
+R,North,Home Fitness,12/30/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,4,22860,1360,6
+R,North,Home Fitness,1/6/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,7,22860,2380,6
+R,North,Home Fitness,8/14/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,15,22860,5100,6
+R,North,Home Fitness,12/22/2014,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,12,22860,2016,6
+R,North,Home Fitness,5/26/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,13,22860,2184,6
+R,North,Home Fitness,5/20/2015,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,2,22860,158,6
+R,North,Home Fitness,12/21/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,3,22860,237,6
+R,North,Home Fitness,8/20/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,9,22860,711,6
+R,North,Home Fitness,8/27/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,12,22860,948,6
+R,North,Home Fitness,4/20/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,1,22860,340,6
+R,North,Home Fitness,4/7/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,6,22860,2040,6
+,Watson,Home Fitness,7/10/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,3,11044,2397,12
+,Watson,Home Fitness,10/19/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,5,11044,3995,12
+,Watson,Home Fitness,10/5/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,15,11044,11985,12
+,Watson,Home Fitness,5/7/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,2,11044,680,12
+,Watson,Home Fitness,10/22/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,5,11044,1700,12
+,Watson,Home Fitness,11/4/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,6,11044,2040,12
+,Watson,Home Fitness,4/5/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,10,11044,3400,12
+,Watson,Home Fitness,11/8/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,10,11044,3400,12
+,Watson,Home Fitness,1/25/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,15,11044,5100,12
+,Watson,Home Fitness,9/3/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,3,11044,504,12
+,Watson,Home Fitness,1/7/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,6,11044,1008,12
+,Watson,Home Fitness,7/2/2014,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,7,11044,1176,12
+,Watson,Home Fitness,9/26/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,10,11044,1680,12
+,Watson,Home Fitness,6/9/2014,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,14,11044,1106,12
+,Watson,Home Fitness,8/23/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,8,11044,2720,12
+,Watson,Home Fitness,9/14/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,9,11044,3060,12
+,Watson,Home Fitness,12/21/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,12,11044,4080,12
+,Watson,Home Fitness,12/1/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,13,11044,4420,12
+,Main,Home Fitness,11/9/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,1,35312,799,5
+,Main,Home Fitness,7/2/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,2,35312,1598,5
+,Main,Home Fitness,11/17/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,5,35312,3995,5
+,Main,Home Fitness,1/29/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,5,35312,3995,5
+,Main,Home Fitness,8/19/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,1,35312,340,5
+,Main,Home Fitness,3/10/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,2,35312,680,5
+,Main,Home Fitness,5/16/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,8,35312,2720,5
+,Main,Home Fitness,7/13/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,4,35312,672,5
+,Main,Home Fitness,9/6/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,6,35312,1008,5
+,Main,Home Fitness,2/17/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,8,35312,1344,5
+,Main,Home Fitness,1/24/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,11,35312,1848,5
+,Main,Home Fitness,10/26/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,12,35312,2016,5
+,Main,Home Fitness,8/25/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,13,35312,2184,5
+,Main,Home Fitness,3/28/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,14,35312,2352,5
+,Main,Home Fitness,4/1/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,2,35312,158,5
+,Main,Home Fitness,9/23/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,3,35312,237,5
+,Main,Home Fitness,4/2/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,3,35312,1020,5
+,Main,Home Fitness,3/24/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,4,35312,1360,5
+,Main,Home Fitness,1/21/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,11,35312,3740,5
+D,South,Home Fitness,6/11/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,10,45450,7990,16
+D,South,Home Fitness,8/19/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,13,45450,10387,16
+D,South,Home Fitness,2/8/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,7,45450,2380,16
+D,South,Home Fitness,2/20/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,12,45450,4080,16
+D,South,Home Fitness,5/4/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,90 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,168,5,3,45450,504,16
+D,South,Home Fitness,1/31/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,8,45450,632,16
+D,South,Home Fitness,5/3/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,11,45450,869,16
+D,South,Home Fitness,7/5/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,14,45450,1106,16
+D,South,Home Fitness,3/18/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,1,45450,340,16
+D,South,Home Fitness,5/24/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,3,45450,1020,16
+D,South,Home Fitness,5/7/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,8,45450,2720,16
+D,South,Home Fitness,8/16/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,10,45450,3400,16
+D,South,Home Fitness,4/5/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,10,45450,3400,16
+R,Main,Home Fitness,2/13/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,1,23520,799,17
+R,Main,Home Fitness,3/10/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,9,23520,3060,17
+R,Main,Home Fitness,11/9/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,1,23520,168,17
+R,Main,Home Fitness,10/4/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,15,23520,1185,17
+R,Main,Home Fitness,12/27/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,6,23520,2040,17
+,Taft,Home Fitness,2/16/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,5,74020,3995,5
+,Taft,Home Fitness,3/18/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,9,74020,7191,5
+,Taft,Home Fitness,2/18/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,14,74020,11186,5
+,Taft,Home Fitness,4/10/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,10,74020,1680,5
+,Taft,Home Fitness,11/20/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,4,74020,316,5
+,Taft,Home Fitness,4/16/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,8,74020,632,5
+,Taft,Home Fitness,12/17/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,11,74020,3740,5
+,North,Home Fitness,5/31/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,10,78100,7990,12
+,North,Home Fitness,8/23/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,10,78100,7990,12
+,North,Home Fitness,2/8/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,11,78100,8789,12
+,North,Home Fitness,9/28/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,11,78100,8789,12
+,North,Home Fitness,5/17/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,13,78100,10387,12
+,North,Home Fitness,5/24/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,5,78100,1700,12
+,North,Home Fitness,2/22/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,6,78100,2040,12
+,North,Home Fitness,5/18/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,6,78100,1008,12
+,North,Home Fitness,6/23/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,15,78100,1185,12
+,North,Home Fitness,12/8/2015,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,11,78100,3740,12
+DMR,South,Home Fitness,4/27/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,2,39110,1598,4
+DMR,South,Home Fitness,6/9/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,3,39110,2397,4
+DMR,South,Home Fitness,12/14/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,2,39110,680,4
+DMR,South,Home Fitness,3/26/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,6,39110,2040,4
+DMR,South,Home Fitness,5/15/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,12,39110,4080,4
+DMR,South,Home Fitness,5/31/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,4,39110,672,4
+DMR,South,Home Fitness,4/6/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,13,39110,2184,4
+DMR,South,Home Fitness,2/4/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,1,39110,79,4
+DMR,South,Home Fitness,10/12/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,2,39110,158,4
+DMR,South,Home Fitness,2/24/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,6,39110,474,4
+DMR,South,Home Fitness,6/22/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,10,39110,790,4
+DMR,South,Home Fitness,7/26/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,10,39110,790,4
+DMR,South,Home Fitness,7/14/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,12,39110,948,4
+DMR,South,Home Fitness,5/10/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,15,39110,1185,4
+DMR,South,Home Fitness,4/22/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,4,39110,1360,4
+DMR,South,Home Fitness,6/23/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,6,39110,2040,4
+DMR,South,Home Fitness,12/25/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,8,39110,2720,4
+DMR,South,Home Fitness,3/11/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,11,39110,3740,4
+DMR,North,Home Fitness,7/20/2014,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,15,48550,11985,3
+DMR,North,Home Fitness,6/16/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,1,48550,340,3
+DMR,North,Home Fitness,3/8/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,2,48550,680,3
+DMR,North,Home Fitness,12/10/2014,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,1,48550,168,3
+DMR,North,Home Fitness,5/9/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,14,48550,2352,3
+DMR,North,Home Fitness,11/27/2014,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,14,48550,2352,3
+DMR,North,Home Fitness,1/31/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,1,48550,79,3
+DMR,North,Home Fitness,3/8/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,2,48550,158,3
+DMR,North,Home Fitness,12/15/2014,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,4,48550,316,3
+DMR,North,Home Fitness,10/25/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,8,48550,632,3
+DMR,North,Home Fitness,10/5/2014,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,1,48550,340,3
+DMR,North,Home Fitness,4/21/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,2,48550,680,3
+DMR,North,Home Fitness,9/20/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,6,48550,2040,3
+DMR,North,Home Fitness,9/17/2014,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,15,48550,5100,3
+,North,Home Fitness,7/16/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,2,54190,680,10
+,North,Home Fitness,7/21/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,9,54190,3060,10
+,North,Home Fitness,11/12/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,13,54190,4420,10
+,North,Home Fitness,12/12/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,6,54190,1008,10
+,North,Home Fitness,7/27/2014,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,8,54190,1344,10
+,North,Home Fitness,9/6/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,15,54190,2520,10
+,North,Home Fitness,1/4/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,15,54190,2520,10
+,North,Home Fitness,11/8/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,1,54190,79,10
+,North,Home Fitness,4/29/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,1,54190,79,10
+,North,Home Fitness,12/22/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,1,54190,79,10
+,North,Home Fitness,2/5/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,9,54190,711,10
+,North,Home Fitness,2/5/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,14,54190,1106,10
+,North,Home Fitness,8/3/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,4,54190,1360,10
+,North,Home Fitness,8/13/2015,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,8,54190,2720,10
+,North,Home Fitness,1/15/2015,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,10,54190,3400,10
+,North,Home Fitness,7/10/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,14,54190,4760,10
+,North,Home Fitness,5/8/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,15,54190,5100,10
+DMR,Main,Home Fitness,2/8/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,4,20500,3196,17
+DMR,Main,Home Fitness,3/10/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,8,20500,6392,17
+DMR,Main,Home Fitness,2/8/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,11,20500,8789,17
+DMR,Main,Home Fitness,11/29/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,15,20500,11985,17
+DMR,Main,Home Fitness,10/15/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,8,20500,2720,17
+DMR,Main,Home Fitness,5/10/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,12,20500,4080,17
+DMR,Main,Home Fitness,7/1/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,14,20500,4760,17
+DMR,Main,Home Fitness,8/18/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,1,20500,168,17
+DMR,Main,Home Fitness,8/16/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,2,20500,336,17
+DMR,Main,Home Fitness,6/24/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,3,20500,504,17
+DMR,Main,Home Fitness,4/20/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,12,20500,2016,17
+DMR,Main,Home Fitness,1/31/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,13,20500,2184,17
+DMR,Main,Home Fitness,5/13/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,15,20500,2520,17
+DMR,Main,Home Fitness,8/10/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,3,20500,237,17
+DMR,Main,Home Fitness,6/4/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,6,20500,474,17
+DMR,Main,Home Fitness,11/16/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,12,20500,948,17
+DMR,Main,Home Fitness,2/15/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,2,20500,680,17
+DMR,Main,Home Fitness,4/27/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,11,20500,3740,17
+DMR,Main,Home Fitness,6/30/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,13,20500,4420,17
+DMR,Main,Home Fitness,10/11/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,3,71820,2397,15
+DMR,Main,Home Fitness,11/23/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,6,71820,4794,15
+DMR,Main,Home Fitness,11/22/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,10,71820,7990,15
+DMR,Main,Home Fitness,5/24/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,10,71820,7990,15
+DMR,Main,Home Fitness,4/25/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,10,71820,7990,15
+DMR,Main,Home Fitness,11/23/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,14,71820,11186,15
+DMR,Main,Home Fitness,12/24/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,3,71820,1020,15
+DMR,Main,Home Fitness,3/25/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Home Fitness,7/20/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,13,71820,4420,15
+DMR,Main,Home Fitness,11/23/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,1,71820,168,15
+DMR,Main,Home Fitness,11/11/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,6,71820,1008,15
+DMR,Main,Home Fitness,11/3/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,7,71820,1176,15
+DMR,Main,Home Fitness,12/13/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,7,71820,1176,15
+DMR,Main,Home Fitness,12/17/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,11,71820,1848,15
+DMR,Main,Home Fitness,10/26/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,15,71820,2520,15
+DMR,Main,Home Fitness,7/16/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,3,71820,237,15
+DMR,Main,Home Fitness,5/9/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,10,71820,790,15
+DMR,Main,Home Fitness,1/26/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,8,71820,2720,15
+DMR,Main,Home Fitness,11/25/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,9,71820,3060,15
+DMR,Main,Home Fitness,4/12/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,12,71820,4080,15
+R,North,Home USA,11/12/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,3,22860,2397,6
+R,North,Home USA,5/24/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,4,22860,3196,6
+R,North,Home USA,6/18/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,11,22860,8789,6
+R,North,Home USA,5/2/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,1,22860,340,6
+R,North,Home USA,7/14/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,2,22860,680,6
+R,North,Home USA,6/1/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,2,22860,680,6
+R,North,Home USA,11/19/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,7,22860,2380,6
+R,North,Home USA,5/17/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,8,22860,2720,6
+R,North,Home USA,11/1/2014,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,2,22860,336,6
+R,North,Home USA,11/8/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,13,22860,2184,6
+R,North,Home USA,5/23/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,13,22860,2184,6
+R,North,Home USA,10/29/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,13,22860,2184,6
+R,North,Home USA,10/13/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,1,22860,79,6
+R,North,Home USA,7/4/2015,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,10,22860,790,6
+R,North,Home USA,10/13/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,3,22860,1020,6
+R,North,Home USA,4/29/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,4,22860,1360,6
+R,North,Home USA,6/16/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,14,22860,4760,6
+,Watson,Home USA,5/11/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,10,11044,7990,12
+,Watson,Home USA,10/25/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,13,11044,10387,12
+,Watson,Home USA,10/21/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,1,11044,340,12
+,Watson,Home USA,2/19/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,2,11044,680,12
+,Watson,Home USA,11/1/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,11,11044,3740,12
+,Watson,Home USA,2/3/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,14,11044,4760,12
+,Watson,Home USA,4/8/2014,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,3,11044,504,12
+,Watson,Home USA,1/11/2014,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,10,11044,1680,12
+,Watson,Home USA,10/22/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,8,11044,2720,12
+,Main,Home USA,7/8/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,7,35312,5593,5
+,Main,Home USA,8/1/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,8,35312,2720,5
+,Main,Home USA,1/28/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,8,35312,2720,5
+,Main,Home USA,11/16/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,9,35312,3060,5
+,Main,Home USA,4/15/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,12,35312,4080,5
+,Main,Home USA,10/22/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,1,35312,168,5
+,Main,Home USA,5/17/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,11,35312,1848,5
+,Main,Home USA,11/5/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,11,35312,1848,5
+,Main,Home USA,8/31/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,2,35312,158,5
+,Main,Home USA,5/12/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,3,35312,237,5
+,Main,Home USA,8/26/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,5,35312,395,5
+,Main,Home USA,1/30/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,5,35312,395,5
+,Main,Home USA,9/1/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,7,35312,553,5
+,Main,Home USA,8/20/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,1,35312,340,5
+,Main,Home USA,11/9/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,2,35312,680,5
+,Main,Home USA,8/6/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,5,35312,1700,5
+,Main,Home USA,8/30/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,5,35312,1700,5
+,Main,Home USA,11/2/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,8,35312,2720,5
+,Main,Home USA,8/31/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,10,35312,3400,5
+,Main,Home USA,4/10/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,14,35312,4760,5
+,Main,Home USA,6/27/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,15,35312,5100,5
+D,South,Home USA,7/24/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,2,45450,1598,16
+D,South,Home USA,4/12/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,4,45450,3196,16
+D,South,Home USA,4/19/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,8,45450,6392,16
+D,South,Home USA,9/14/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,8,45450,6392,16
+D,South,Home USA,9/16/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,13,45450,10387,16
+D,South,Home USA,4/15/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,13,45450,10387,16
+D,South,Home USA,8/16/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,13,45450,10387,16
+D,South,Home USA,8/17/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,90 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,168,5,2,45450,336,16
+D,South,Home USA,12/27/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,1,45450,79,16
+D,South,Home USA,8/4/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,3,45450,237,16
+D,South,Home USA,4/27/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,6,45450,474,16
+D,South,Home USA,4/1/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,6,45450,474,16
+D,South,Home USA,4/22/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,7,45450,553,16
+D,South,Home USA,6/24/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,2,45450,680,16
+D,South,Home USA,10/30/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,2,45450,680,16
+D,South,Home USA,3/15/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,4,45450,1360,16
+D,South,Home USA,8/2/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,10,45450,3400,16
+D,South,Home USA,4/6/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,11,45450,3740,16
+R,Main,Home USA,11/21/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,1,23520,799,17
+R,Main,Home USA,1/25/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,11,23520,8789,17
+R,Main,Home USA,9/27/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,15,23520,11985,17
+R,Main,Home USA,12/10/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,1,23520,340,17
+R,Main,Home USA,12/10/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,14,23520,4760,17
+R,Main,Home USA,3/9/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,15,23520,2520,17
+R,Main,Home USA,4/15/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,7,23520,553,17
+R,Main,Home USA,4/6/2014,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,13,23520,1027,17
+R,Main,Home USA,12/13/2015,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,5,23520,1700,17
+,Taft,Home USA,9/11/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,10,74020,7990,5
+,Taft,Home USA,9/17/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,11,74020,8789,5
+,Taft,Home USA,9/3/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,1,74020,340,5
+,Taft,Home USA,4/5/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,3,74020,1020,5
+,Taft,Home USA,10/5/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,15,74020,5100,5
+,Taft,Home USA,12/29/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,4,74020,672,5
+,Taft,Home USA,5/25/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,9,74020,1512,5
+,Taft,Home USA,2/13/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,11,74020,1848,5
+,Taft,Home USA,3/17/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,12,74020,2016,5
+,Taft,Home USA,8/9/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,13,74020,2184,5
+,Taft,Home USA,1/23/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,11,74020,869,5
+,Taft,Home USA,11/19/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,11,74020,869,5
+,Taft,Home USA,6/1/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,12,74020,948,5
+,Taft,Home USA,7/6/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,30 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,79,2,12,74020,948,5
+,Taft,Home USA,11/17/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,7,74020,2380,5
+,North,Home USA,5/24/2015,Sales,"Lucas, John",7/1/2003,Jul,"Thermal Vest, Case of 12",SW,"Lucas, John",Contract,799,3,2,78100,1598,12
+,North,Home USA,4/9/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,4,78100,1360,12
+,North,Home USA,11/17/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,3,78100,504,12
+,North,Home USA,7/12/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,8,78100,632,12
+,North,Home USA,7/12/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,12,78100,948,12
+,North,Home USA,3/8/2015,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,12,78100,4080,12
+DMR,South,Home USA,6/7/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,3,39110,2397,4
+DMR,South,Home USA,12/20/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,6,39110,4794,4
+DMR,South,Home USA,10/25/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,2,39110,680,4
+DMR,South,Home USA,5/15/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,5,39110,1700,4
+DMR,South,Home USA,6/25/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"Polo Sweatshirt, Case of 12",NE,"Maynard, Susan",Full Time,340,5,5,39110,1700,4
+DMR,South,Home USA,10/19/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,2,39110,336,4
+DMR,South,Home USA,1/5/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,4,39110,672,4
+DMR,South,Home USA,11/16/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,5,39110,840,4
+DMR,South,Home USA,3/24/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,9,39110,1512,4
+DMR,South,Home USA,12/7/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,15,39110,2520,4
+DMR,South,Home USA,1/8/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,10,39110,790,4
+DMR,South,Home USA,1/18/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,14,39110,1106,4
+DMR,South,Home USA,4/17/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,5,39110,1700,4
+DMR,South,Home USA,2/26/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,11,39110,3740,4
+DMR,South,Home USA,7/13/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,13,39110,4420,4
+DMR,South,Home USA,11/29/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,14,39110,4760,4
+DMR,South,Home USA,12/1/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,15,39110,5100,4
+DMR,North,Home USA,9/7/2014,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,1,48550,799,3
+DMR,North,Home USA,9/28/2015,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,4,48550,3196,3
+DMR,North,Home USA,1/19/2015,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,10,48550,7990,3
+DMR,North,Home USA,7/25/2015,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,10,48550,7990,3
+DMR,North,Home USA,4/22/2015,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,14,48550,11186,3
+DMR,North,Home USA,7/7/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,6,48550,2040,3
+DMR,North,Home USA,4/1/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,15,48550,2520,3
+DMR,North,Home USA,1/27/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,2,48550,158,3
+DMR,North,Home USA,2/3/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,3,48550,237,3
+DMR,North,Home USA,8/16/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,7,48550,553,3
+DMR,North,Home USA,7/15/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,5,48550,1700,3
+DMR,North,Home USA,9/29/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,9,48550,3060,3
+DMR,North,Home USA,6/10/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,11,48550,3740,3
+,North,Home USA,1/8/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,2,54190,1598,10
+,North,Home USA,2/17/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,4,54190,3196,10
+,North,Home USA,10/1/2014,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,6,54190,1008,10
+,North,Home USA,12/27/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,8,54190,1344,10
+,North,Home USA,12/3/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,15,54190,2520,10
+,North,Home USA,9/14/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,1,54190,79,10
+,North,Home USA,4/23/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,9,54190,711,10
+,North,Home USA,2/2/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,10,54190,790,10
+,North,Home USA,3/2/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,10,54190,790,10
+,North,Home USA,12/29/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,11,54190,869,10
+,North,Home USA,9/21/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,12,54190,948,10
+,North,Home USA,7/20/2014,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,13,54190,1027,10
+,North,Home USA,1/3/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,2,54190,680,10
+,North,Home USA,8/23/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,5,54190,1700,10
+,North,Home USA,1/8/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,6,54190,2040,10
+,North,Home USA,12/25/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,9,54190,3060,10
+,North,Home USA,12/19/2015,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,12,54190,4080,10
+DMR,Main,Home USA,8/4/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,5,20500,3995,17
+DMR,Main,Home USA,1/29/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,7,20500,5593,17
+DMR,Main,Home USA,3/23/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,8,20500,6392,17
+DMR,Main,Home USA,9/14/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,10,20500,7990,17
+DMR,Main,Home USA,2/6/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,1,20500,340,17
+DMR,Main,Home USA,2/6/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,3,20500,1020,17
+DMR,Main,Home USA,9/27/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,3,20500,1020,17
+DMR,Main,Home USA,11/16/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,10,20500,3400,17
+DMR,Main,Home USA,7/17/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,13,20500,4420,17
+DMR,Main,Home USA,7/2/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,13,20500,4420,17
+DMR,Main,Home USA,9/29/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,1,20500,168,17
+DMR,Main,Home USA,7/8/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,4,20500,672,17
+DMR,Main,Home USA,1/14/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,10,20500,1680,17
+DMR,Main,Home USA,12/29/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,15,20500,2520,17
+DMR,Main,Home USA,6/28/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,8,20500,632,17
+DMR,Main,Home USA,3/16/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,9,20500,711,17
+DMR,Main,Home USA,6/23/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,11,20500,869,17
+DMR,Main,Home USA,9/17/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,14,20500,1106,17
+DMR,Main,Home USA,1/21/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,8,20500,2720,17
+DMR,Main,Home USA,11/21/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,8,20500,2720,17
+DMR,Main,Home USA,2/24/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,14,20500,4760,17
+DMR,Main,Home USA,7/25/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,14,20500,4760,17
+DMR,Main,Home USA,12/19/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,3,71820,2397,15
+DMR,Main,Home USA,10/25/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,5,71820,3995,15
+DMR,Main,Home USA,3/30/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,7,71820,5593,15
+DMR,Main,Home USA,7/30/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,7,71820,5593,15
+DMR,Main,Home USA,1/27/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,7,71820,5593,15
+DMR,Main,Home USA,8/9/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,12,71820,9588,15
+DMR,Main,Home USA,6/27/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,2,71820,680,15
+DMR,Main,Home USA,8/13/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,3,71820,1020,15
+DMR,Main,Home USA,4/6/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Home USA,1/29/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,6,71820,2040,15
+DMR,Main,Home USA,7/4/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,7,71820,2380,15
+DMR,Main,Home USA,1/14/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,12,71820,4080,15
+DMR,Main,Home USA,12/27/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,14,71820,4760,15
+DMR,Main,Home USA,10/5/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,4,71820,672,15
+DMR,Main,Home USA,6/19/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,3,71820,237,15
+DMR,Main,Home USA,7/28/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,10,71820,790,15
+DMR,Main,Home USA,1/11/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Home USA,4/12/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Home USA,5/9/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,5,71820,1700,15
+DMR,Main,Home USA,4/7/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,6,71820,2040,15
+DMR,Main,Home USA,2/26/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,11,71820,3740,15
+DMR,Main,Home USA,11/26/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,12,71820,4080,15
+DMR,Main,Home USA,9/15/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,13,71820,4420,15
+DMR,Main,Home USA,12/19/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,15,71820,5100,15
+R,North,Fabulous Health,9/15/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,9,22860,7191,6
+R,North,Fabulous Health,1/7/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Thermal Vest, Case of 12",NE,"Arnold, Cole",Full Time,799,5,15,22860,11985,6
+R,North,Fabulous Health,10/25/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,5,22860,1700,6
+R,North,Fabulous Health,4/10/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,8,22860,2720,6
+R,North,Fabulous Health,3/30/2014,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,9,22860,3060,6
+R,North,Fabulous Health,5/3/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,9,22860,3060,6
+R,North,Fabulous Health,3/29/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"Polo Sweatshirt, Case of 12",NW,"Arnold, Cole",Full Time,340,5,10,22860,3400,6
+R,North,Fabulous Health,2/24/2015,Sales,"Arnold, Cole",2/26/2010,Feb,90 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,168,5,8,22860,1344,6
+R,North,Fabulous Health,4/15/2014,Sales,"Arnold, Cole",2/26/2010,Feb,30 Day H+ Supplement Pack,NE,"Arnold, Cole",Full Time,79,5,12,22860,948,6
+R,North,Fabulous Health,1/7/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,11,22860,3740,6
+R,North,Fabulous Health,3/29/2015,Sales,"Arnold, Cole",2/26/2010,Feb,"V-neck sweater, Case of 12",NE,"Arnold, Cole",Full Time,340,5,13,22860,4420,6
+,Watson,Fabulous Health,11/2/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,7,11044,5593,12
+,Watson,Fabulous Health,6/25/2014,Sales,"Byrd, Asa",7/25/2003,Jul,"Thermal Vest, Case of 12",SE,"Byrd, Asa",Hourly,799,2,14,11044,11186,12
+,Watson,Fabulous Health,11/22/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"Polo Sweatshirt, Case of 12",SE,"Byrd, Asa",Hourly,340,2,10,11044,3400,12
+,Watson,Fabulous Health,11/18/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,3,11044,504,12
+,Watson,Fabulous Health,10/5/2015,Sales,"Byrd, Asa",7/25/2003,Jul,90 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,168,2,14,11044,2352,12
+,Watson,Fabulous Health,8/22/2015,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,8,11044,632,12
+,Watson,Fabulous Health,6/14/2015,Sales,"Byrd, Asa",7/25/2003,Jul,30 Day H+ Supplement Pack,SE,"Byrd, Asa",Hourly,79,2,11,11044,869,12
+,Watson,Fabulous Health,10/5/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,1,11044,340,12
+,Watson,Fabulous Health,9/12/2015,Sales,"Byrd, Asa",7/25/2003,Jul,"V-neck sweater, Case of 12",SE,"Byrd, Asa",Hourly,340,2,13,11044,4420,12
+,Main,Fabulous Health,5/28/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Thermal Vest, Case of 12",NW,"Christensen, Jill",Hourly,799,3,12,35312,9588,5
+,Main,Fabulous Health,5/28/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,9,35312,3060,5
+,Main,Fabulous Health,2/2/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,9,35312,3060,5
+,Main,Fabulous Health,9/28/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"Polo Sweatshirt, Case of 12",NW,"Christensen, Jill",Hourly,340,3,12,35312,4080,5
+,Main,Fabulous Health,8/2/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,5,35312,840,5
+,Main,Fabulous Health,12/8/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,5,35312,840,5
+,Main,Fabulous Health,1/8/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,11,35312,1848,5
+,Main,Fabulous Health,10/6/2015,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,12,35312,2016,5
+,Main,Fabulous Health,4/21/2014,Sales,"Christensen, Jill",11/12/2010,Nov,90 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,168,3,12,35312,2016,5
+,Main,Fabulous Health,3/15/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,1,35312,79,5
+,Main,Fabulous Health,7/12/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,3,35312,237,5
+,Main,Fabulous Health,8/31/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,3,35312,237,5
+,Main,Fabulous Health,9/23/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,7,35312,553,5
+,Main,Fabulous Health,6/10/2014,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,9,35312,711,5
+,Main,Fabulous Health,6/14/2015,Sales,"Christensen, Jill",11/12/2010,Nov,30 Day H+ Supplement Pack,NW,"Christensen, Jill",Hourly,79,3,11,35312,869,5
+,Main,Fabulous Health,8/16/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,1,35312,340,5
+,Main,Fabulous Health,11/15/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,3,35312,1020,5
+,Main,Fabulous Health,4/6/2014,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,6,35312,2040,5
+,Main,Fabulous Health,2/15/2015,Sales,"Christensen, Jill",11/12/2010,Nov,"V-neck sweater, Case of 12",NW,"Christensen, Jill",Hourly,340,3,15,35312,5100,5
+D,South,Fabulous Health,7/30/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,5,45450,3995,16
+D,South,Fabulous Health,6/18/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,6,45450,4794,16
+D,South,Fabulous Health,1/8/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,7,45450,5593,16
+D,South,Fabulous Health,2/19/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Thermal Vest, Case of 12",SW,"Kelly, Icelita",Full Time,799,5,13,45450,10387,16
+D,South,Fabulous Health,11/2/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,6,45450,2040,16
+D,South,Fabulous Health,8/27/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,7,45450,2380,16
+D,South,Fabulous Health,12/29/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,8,45450,2720,16
+D,South,Fabulous Health,11/19/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"Polo Sweatshirt, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,15,45450,5100,16
+D,South,Fabulous Health,8/24/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,90 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,168,5,3,45450,504,16
+D,South,Fabulous Health,7/21/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,2,45450,158,16
+D,South,Fabulous Health,5/30/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,3,45450,237,16
+D,South,Fabulous Health,12/7/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,10,45450,790,16
+D,South,Fabulous Health,10/20/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,30 Day H+ Supplement Pack,SW,"Kelly, Icelita",Full Time,79,5,12,45450,948,16
+D,South,Fabulous Health,9/27/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,1,45450,340,16
+D,South,Fabulous Health,9/20/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,6,45450,2040,16
+D,South,Fabulous Health,6/9/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,9,45450,3060,16
+D,South,Fabulous Health,2/28/2015,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,12,45450,4080,16
+D,South,Fabulous Health,8/24/2014,Sales,"Kelly, Icelita",2/11/2000,Feb,"V-neck sweater, Case of 12",SW,"Kelly, Icelita",Full Time,340,5,15,45450,5100,16
+R,Main,Fabulous Health,5/5/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,6,23520,4794,17
+R,Main,Fabulous Health,3/22/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,10,23520,7990,17
+R,Main,Fabulous Health,3/1/2015,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,13,23520,10387,17
+R,Main,Fabulous Health,6/25/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Thermal Vest, Case of 12",SW,"Leon, Emily",Full Time,799,2,15,23520,11985,17
+R,Main,Fabulous Health,6/25/2014,Sales,"Leon, Emily",1/15/1999,Jan,"Polo Sweatshirt, Case of 12",SW,"Leon, Emily",Full Time,340,2,4,23520,1360,17
+R,Main,Fabulous Health,9/20/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,6,23520,1008,17
+R,Main,Fabulous Health,2/8/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,7,23520,1176,17
+R,Main,Fabulous Health,9/27/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,10,23520,1680,17
+R,Main,Fabulous Health,8/25/2015,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,12,23520,2016,17
+R,Main,Fabulous Health,4/13/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,12,23520,2016,17
+R,Main,Fabulous Health,5/13/2014,Sales,"Leon, Emily",1/15/1999,Jan,90 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,168,2,14,23520,2352,17
+R,Main,Fabulous Health,8/9/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,1,23520,79,17
+R,Main,Fabulous Health,12/27/2014,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,5,23520,395,17
+R,Main,Fabulous Health,11/16/2014,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,10,23520,790,17
+R,Main,Fabulous Health,9/28/2015,Sales,"Leon, Emily",1/15/1999,Jan,30 Day H+ Supplement Pack,SW,"Leon, Emily",Full Time,79,2,11,23520,869,17
+R,Main,Fabulous Health,1/11/2015,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,1,23520,340,17
+R,Main,Fabulous Health,4/6/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,2,23520,680,17
+R,Main,Fabulous Health,3/24/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,6,23520,2040,17
+R,Main,Fabulous Health,11/1/2015,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,11,23520,3740,17
+R,Main,Fabulous Health,11/20/2014,Sales,"Leon, Emily",1/15/1999,Jan,"V-neck sweater, Case of 12",SW,"Leon, Emily",Full Time,340,2,15,23520,5100,17
+,Taft,Fabulous Health,7/26/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Thermal Vest, Case of 12",NE,"Livingston, Lynette",Contract,799,2,9,74020,7191,5
+,Taft,Fabulous Health,1/14/2015,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,2,74020,680,5
+,Taft,Fabulous Health,10/27/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,5,74020,1700,5
+,Taft,Fabulous Health,6/22/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,8,74020,2720,5
+,Taft,Fabulous Health,9/1/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,9,74020,3060,5
+,Taft,Fabulous Health,3/15/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,11,74020,3740,5
+,Taft,Fabulous Health,5/11/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"Polo Sweatshirt, Case of 12",NE,"Livingston, Lynette",Contract,340,2,11,74020,3740,5
+,Taft,Fabulous Health,1/10/2015,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,1,74020,168,5
+,Taft,Fabulous Health,11/19/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,90 Day H+ Supplement Pack,NE,"Livingston, Lynette",Contract,168,2,3,74020,504,5
+,Taft,Fabulous Health,10/5/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,6,74020,2040,5
+,Taft,Fabulous Health,12/2/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,13,74020,4420,5
+,Taft,Fabulous Health,6/24/2014,Sales,"Livingston, Lynette",6/4/2010,Jun,"V-neck sweater, Case of 12",NE,"Livingston, Lynette",Contract,340,2,15,74020,5100,5
+,North,Fabulous Health,7/22/2015,Sales,"Lucas, John",7/1/2003,Jul,"Polo Sweatshirt, Case of 12",SW,"Lucas, John",Contract,340,3,6,78100,2040,12
+,North,Fabulous Health,4/30/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,1,78100,168,12
+,North,Fabulous Health,12/27/2014,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,3,78100,504,12
+,North,Fabulous Health,12/13/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,5,78100,840,12
+,North,Fabulous Health,4/4/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,9,78100,1512,12
+,North,Fabulous Health,11/5/2015,Sales,"Lucas, John",7/1/2003,Jul,90 Day H+ Supplement Pack,SW,"Lucas, John",Contract,168,3,9,78100,1512,12
+,North,Fabulous Health,9/12/2015,Sales,"Lucas, John",7/1/2003,Jul,30 Day H+ Supplement Pack,SW,"Lucas, John",Contract,79,3,15,78100,1185,12
+,North,Fabulous Health,10/10/2015,Sales,"Lucas, John",7/1/2003,Jul,"V-neck sweater, Case of 12",SW,"Lucas, John",Contract,340,3,1,78100,340,12
+DMR,South,Fabulous Health,4/20/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,5,39110,3995,4
+DMR,South,Fabulous Health,6/22/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"Thermal Vest, Case of 12",NE,"Maynard, Susan",Full Time,799,5,9,39110,7191,4
+DMR,South,Fabulous Health,8/12/2015,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,5,39110,840,4
+DMR,South,Fabulous Health,8/3/2014,Sales,"Maynard, Susan",1/14/2012,Jan,90 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,168,5,15,39110,2520,4
+DMR,South,Fabulous Health,9/6/2014,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,1,39110,79,4
+DMR,South,Fabulous Health,7/4/2015,Sales,"Maynard, Susan",1/14/2012,Jan,30 Day H+ Supplement Pack,NE,"Maynard, Susan",Full Time,79,5,15,39110,1185,4
+DMR,South,Fabulous Health,10/19/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,2,39110,680,4
+DMR,South,Fabulous Health,7/15/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,3,39110,1020,4
+DMR,South,Fabulous Health,7/21/2014,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,7,39110,2380,4
+DMR,South,Fabulous Health,8/13/2015,Sales,"Maynard, Susan",1/14/2012,Jan,"V-neck sweater, Case of 12",NE,"Maynard, Susan",Full Time,340,5,15,39110,5100,4
+DMR,North,Fabulous Health,11/22/2014,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,2,48550,1598,3
+DMR,North,Fabulous Health,12/16/2014,Sales,"McCullough, Scott",5/17/2012,May,"Thermal Vest, Case of 12",NW,"McCullough, Scott",Full Time,799,5,14,48550,11186,3
+DMR,North,Fabulous Health,2/22/2015,Sales,"McCullough, Scott",5/17/2012,May,"Polo Sweatshirt, Case of 12",NW,"McCullough, Scott",Full Time,340,5,3,48550,1020,3
+DMR,North,Fabulous Health,7/4/2015,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,3,48550,504,3
+DMR,North,Fabulous Health,8/17/2014,Sales,"McCullough, Scott",5/17/2012,May,90 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,168,5,8,48550,1344,3
+DMR,North,Fabulous Health,11/25/2014,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,5,48550,395,3
+DMR,North,Fabulous Health,7/29/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,9,48550,711,3
+DMR,North,Fabulous Health,1/22/2015,Sales,"McCullough, Scott",5/17/2012,May,30 Day H+ Supplement Pack,NW,"McCullough, Scott",Full Time,79,5,10,48550,790,3
+DMR,North,Fabulous Health,8/6/2014,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,2,48550,680,3
+DMR,North,Fabulous Health,3/15/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,8,48550,2720,3
+DMR,North,Fabulous Health,5/17/2014,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,15,48550,5100,3
+DMR,North,Fabulous Health,1/11/2015,Sales,"McCullough, Scott",5/17/2012,May,"V-neck sweater, Case of 12",NW,"McCullough, Scott",Full Time,340,5,15,48550,5100,3
+,North,Fabulous Health,11/16/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,3,54190,2397,10
+,North,Fabulous Health,7/5/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,5,54190,3995,10
+,North,Fabulous Health,4/28/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Thermal Vest, Case of 12",SE,"Norman, Rita",Contract,799,4,9,54190,7191,10
+,North,Fabulous Health,3/12/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,4,54190,1360,10
+,North,Fabulous Health,10/5/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,7,54190,2380,10
+,North,Fabulous Health,9/18/2014,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,12,54190,4080,10
+,North,Fabulous Health,1/13/2015,Sales,"Norman, Rita",1/17/2006,Jan,"Polo Sweatshirt, Case of 12",SE,"Norman, Rita",Contract,340,4,13,54190,4420,10
+,North,Fabulous Health,9/9/2014,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,4,54190,672,10
+,North,Fabulous Health,9/25/2014,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,4,54190,672,10
+,North,Fabulous Health,11/15/2015,Sales,"Norman, Rita",1/17/2006,Jan,90 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,168,4,8,54190,1344,10
+,North,Fabulous Health,1/4/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,1,54190,79,10
+,North,Fabulous Health,5/3/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,7,54190,553,10
+,North,Fabulous Health,8/24/2015,Sales,"Norman, Rita",1/17/2006,Jan,30 Day H+ Supplement Pack,SE,"Norman, Rita",Contract,79,4,15,54190,1185,10
+,North,Fabulous Health,9/6/2015,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,8,54190,2720,10
+,North,Fabulous Health,10/28/2014,Sales,"Norman, Rita",1/17/2006,Jan,"V-neck sweater, Case of 12",SE,"Norman, Rita",Contract,340,4,15,54190,5100,10
+DMR,Main,Fabulous Health,9/21/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,4,20500,3196,17
+DMR,Main,Fabulous Health,6/22/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,8,20500,6392,17
+DMR,Main,Fabulous Health,4/26/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,8,20500,6392,17
+DMR,Main,Fabulous Health,4/13/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,9,20500,7191,17
+DMR,Main,Fabulous Health,1/28/2015,Sales,"Owen, Robert",6/15/1998,Jun,"Thermal Vest, Case of 12",SW,"Owen, Robert",Half-Time,799,3,15,20500,11985,17
+DMR,Main,Fabulous Health,5/25/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,1,20500,340,17
+DMR,Main,Fabulous Health,10/8/2014,Sales,"Owen, Robert",6/15/1998,Jun,"Polo Sweatshirt, Case of 12",SW,"Owen, Robert",Half-Time,340,3,12,20500,4080,17
+DMR,Main,Fabulous Health,5/12/2015,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,2,20500,336,17
+DMR,Main,Fabulous Health,4/28/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,12,20500,2016,17
+DMR,Main,Fabulous Health,8/31/2014,Sales,"Owen, Robert",6/15/1998,Jun,90 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,168,3,12,20500,2016,17
+DMR,Main,Fabulous Health,5/24/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,2,20500,158,17
+DMR,Main,Fabulous Health,12/1/2015,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,5,20500,395,17
+DMR,Main,Fabulous Health,12/8/2014,Sales,"Owen, Robert",6/15/1998,Jun,30 Day H+ Supplement Pack,SW,"Owen, Robert",Half-Time,79,3,7,20500,553,17
+DMR,Main,Fabulous Health,3/6/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,1,20500,340,17
+DMR,Main,Fabulous Health,11/16/2014,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,3,20500,1020,17
+DMR,Main,Fabulous Health,5/27/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,9,20500,3060,17
+DMR,Main,Fabulous Health,12/21/2015,Sales,"Owen, Robert",6/15/1998,Jun,"V-neck sweater, Case of 12",SW,"Owen, Robert",Half-Time,340,3,15,20500,5100,17
+DMR,Main,Fabulous Health,6/15/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,3,71820,2397,15
+DMR,Main,Fabulous Health,9/6/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Thermal Vest, Case of 12",NE,"Vaughn, Harlon",Full Time,799,2,4,71820,3196,15
+DMR,Main,Fabulous Health,7/14/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,2,71820,680,15
+DMR,Main,Fabulous Health,11/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,4,71820,1360,15
+DMR,Main,Fabulous Health,4/3/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,5,71820,1700,15
+DMR,Main,Fabulous Health,3/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,6,71820,2040,15
+DMR,Main,Fabulous Health,8/10/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,7,71820,2380,15
+DMR,Main,Fabulous Health,9/3/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,7,71820,2380,15
+DMR,Main,Fabulous Health,1/18/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,8,71820,2720,15
+DMR,Main,Fabulous Health,5/23/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"Polo Sweatshirt, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,10,71820,3400,15
+DMR,Main,Fabulous Health,2/2/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,6,71820,1008,15
+DMR,Main,Fabulous Health,5/17/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,13,71820,2184,15
+DMR,Main,Fabulous Health,7/8/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,90 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,168,2,14,71820,2352,15
+DMR,Main,Fabulous Health,6/22/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,3,71820,237,15
+DMR,Main,Fabulous Health,8/12/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,30 Day H+ Supplement Pack,NE,"Vaughn, Harlon",Full Time,79,2,8,71820,632,15
+DMR,Main,Fabulous Health,11/28/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,2,71820,680,15
+DMR,Main,Fabulous Health,4/22/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,7,71820,2380,15
+DMR,Main,Fabulous Health,11/19/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,8,71820,2720,15
+DMR,Main,Fabulous Health,11/22/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,10,71820,3400,15
+DMR,Main,Fabulous Health,9/9/2014,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,10,71820,3400,15
+DMR,Main,Fabulous Health,9/21/2015,Sales,"Vaughn, Harlon",1/7/2001,Jan,"V-neck sweater, Case of 12",NE,"Vaughn, Harlon",Full Time,340,2,10,71820,3400,15
