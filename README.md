@@ -14,4 +14,6 @@ Additional actions added to make the dashboard interactive-
 1) Filter action
 2) Highlighter action
 3) Proportional brushing using set action
+
+Resulting dashboard created by me-
 ![image](https://user-images.githubusercontent.com/86538340/135951250-362449e4-d182-4bd7-8585-3260b1786857.png)
