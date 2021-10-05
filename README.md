@@ -7,8 +7,8 @@ The different retail companies purchases products from ABC corporation and are l
 Being a data analyst the task given is to visualize and analyze a dashboard which has:-
 1. sales by region over time
 2. product sales by region(highlight table)
-3.sales by sales person(bar chart)
-4.compare sales, salary, rating(scatter plot)
+3. sales by sales person(bar chart)
+4. compare sales, salary, rating(scatter plot)
 
 Additional actions added to make the dashboard interactive-
 1) Filter action
